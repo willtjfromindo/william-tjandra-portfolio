@@ -1,11 +1,11 @@
 .app {
   min-height: 100vh;
   background: linear-gradient(135deg, 
-    #f0f4ff 0%, 
-    #e8d5ff 25%, 
-    #ffd5e8 50%, 
-    #d5e8ff 75%, 
-    #fff0f4 100%);
+    rgba(255, 255, 255, 0.95) 0%, 
+    rgba(255, 255, 255, 0.92) 25%, 
+    rgba(255, 255, 255, 0.94) 50%, 
+    rgba(255, 255, 255, 0.93) 75%, 
+    rgba(255, 255, 255, 0.95) 100%);
   background-attachment: fixed;
   position: relative;
 }
