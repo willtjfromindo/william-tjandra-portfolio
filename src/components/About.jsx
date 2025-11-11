@@ -99,11 +99,11 @@ function About() {
           <div className="photo-collage">
             <div className="collage-item collage-item-large">
               <img src={img1} alt="Personal photo" className="collage-image" />
-              <span className="image-caption">La Familia</span>
+              <span className="image-caption">"La Familia"</span>
             </div>
             <div className="collage-item collage-item-small">
               <img src={img2} alt="Personal photo" className="collage-image" />
-              <span className="image-caption">w/ the GOAT</span>
+              <span className="image-caption">"w/ the GOAT"</span>
             </div>
             <div className="collage-item collage-item-small">
               <img src={img3} alt="Personal photo" className="collage-image" />
