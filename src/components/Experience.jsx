@@ -10,8 +10,8 @@ function Experience() {
       location: 'Los Angeles, CA',
       period: 'Oct 2025 – Present',
       description: [
-        'Built a destination-based matching system using React + Node.js + Firebase/Firestore with Google Maps API, allowing students to find nearby walkers on the same route, review profiles, and accept/deny before pairing.',
-        'Engineered an LLM-driven icebreaker service (few-shot prompting, Claude) that turns shared interests into tailored on-the-spot conversation starters featuring safety filters with a median response time of under 1 second.',
+        'Building a destination-based matching system using AWS, React, Node.js, HTML/CSS, with Google Maps API, allowing students to find nearby walkers on the same route, review profiles, and accept/deny before pairing.',
+        'Engineered an LLM-driven icebreaker service (few-shot prompting, Claude API) that turns shared interests into tailored on-the-spot conversation starters featuring safety filters with a median response time of under 1 second.',
         'Implemented privacy & safety controls: coarse location (approximately 50 meters), post-session deletion of precise GPS, session-scoped JWTs with short TTLs, and report/block/throttle workflows in Cloud Functions with audit logs.'
       ],
       icon: '🚶',

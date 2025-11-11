@@ -15,7 +15,7 @@ function Projects() {
         'Interactive Safety Maps: Visual heat maps show danger zones at a glance',
         'Instant Notifications: Get alerts when family members enter high-risk areas'
       ],
-      link: 'https://github.com/willtjfromindo/SafeStep',
+      link: 'https://github.com/willtjfromindo/SafeStep-App',
       technologies: ['React', 'Firebase', 'CSS3', 'Google Maps API']
     },
     {
