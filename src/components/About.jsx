@@ -55,9 +55,6 @@ function About() {
                 <span className="skill-tag">Pandas</span>
                 <span className="skill-tag">NumPy</span>
                 <span className="skill-tag">Matplotlib</span>
-                <span className="skill-tag">imbalanced-learn</span>
-                <span className="skill-tag">DOE</span>
-                <span className="skill-tag">Hyperopt</span>
               </div>
             </div>
 
@@ -66,7 +63,8 @@ function About() {
               <div className="skill-tags">
                 <span className="skill-tag">Node.js</span>
                 <span className="skill-tag">Express</span>
-                <span className="skill-tag">Firebase (Auth, Firestore/Realtime DB)</span>
+                <span className="skill-tag">Firebase</span>
+                <span className="skill-tag">AWS</span>
                 <span className="skill-tag">REST APIs</span>
               </div>
             </div>
