@@ -34,7 +34,7 @@ function Projects() {
     },
     {
       id: 4,
-      title: 'Chipotle Food Info Backend',
+      title: 'Chipotle Cultural Reskin',
       description: 'Backend API server with Redis caching for food information queries. Implements intelligent caching to reduce Tavily API calls with automatic 30-day cache expiration, while maintaining graceful fallback if Redis is unavailable.',
       link: 'https://github.com/hleo1/chipotle-reskin',
       technologies: ['Node.js', 'Redis', 'Express', 'Tavily API', 'REST API']
