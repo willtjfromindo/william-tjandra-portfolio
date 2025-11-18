@@ -31,6 +31,13 @@ function Projects() {
       description: 'This project implements a blood donation management system with vacation credit tracking. The system consists of three main components: Date utilities, BloodDonation validation, and VacationAccount management.',
       link: 'https://github.com/willtjfromindo/Blood-Donation---VacationHours',
       technologies: ['C++', 'Object-Oriented Programming', 'Data Structures']
+    },
+    {
+      id: 4,
+      title: 'Chipotle Food Info Backend',
+      description: 'Backend API server with Redis caching for food information queries. Implements intelligent caching to reduce Tavily API calls with automatic 30-day cache expiration, while maintaining graceful fallback if Redis is unavailable.',
+      link: 'https://github.com/hleo1/chipotle-reskin',
+      technologies: ['Node.js', 'Redis', 'Express', 'Tavily API', 'REST API']
     }
   ]
 
