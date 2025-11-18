@@ -6,7 +6,7 @@ function Projects() {
     {
       id: 1,
       title: 'SafeStep - Real-Time Family Safety',
-      description: 'SafeStep combines real-time location tracking with live crime data analysis to help you keep your family safe. Know they\'re safe, not just where they are.',
+      description: 'Built for CalHacks, SafeStep combines real-time location tracking with live crime data analysis to help you keep your family safe. Know they\'re safe, not just where they are.',
       features: [
         'Real-Time Location Tracking: Track family members with updates every 30 seconds',
         'Live Crime Risk Assessment: Color-coded safety zones based on official crime data',
@@ -35,7 +35,7 @@ function Projects() {
     {
       id: 4,
       title: 'Chipotle Cultural Reskin',
-      description: 'Backend API server with Redis caching for food information queries. Implements intelligent caching to reduce Tavily API calls with automatic 30-day cache expiration, while maintaining graceful fallback if Redis is unavailable.',
+      description: 'Built for the Redis and Tavily Hackathon, this backend API server implements intelligent Redis caching for food information queries. Reduces Tavily API calls with automatic 30-day cache expiration, while maintaining graceful fallback if Redis is unavailable.',
       link: 'https://github.com/hleo1/chipotle-reskin',
       technologies: ['Node.js', 'Redis', 'Express', 'Tavily API', 'REST API']
     }
